@@ -21,7 +21,13 @@ const cardfiller = [
         name:'To-Do List Applications',
         description:'An application that gives users the ability to create, and delete tasks, as well as check them off when completed.  ',
         image:'images/to-do-dark-ss.png',
-        languages:'VueJS | Vuetify | HTML | SCSS'
+        languages:'VueJS | Vuetify | SCSS'
+    },
+    {  
+        name:'Harry Potter API Search',
+        description:'A search bar application. Filters through each letter in the names of characters from a Harry Potter API. Application also includes a splash screen, and other UI technologies.  ',
+        image:'images/harry-potter.png',
+        languages:'VueJS | Vuetify | Vuex | SCSS'
     },
     {  
         name:'NBA Statistics Application',
